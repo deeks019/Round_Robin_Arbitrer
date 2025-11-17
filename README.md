@@ -10,14 +10,14 @@ TABLE OF CONTENTS:
     [Layout 6](Floorplanning%20layout/layout6.jpg)<br>
     [Layout 7](Floorplanning%20layout/layout7.jpg)<br>
 2) [Input-Output Layout](input-output%20layout/image.jpg)<br>
-3) Netlist<br>
+4) Netlist<br>
    [Netlist 1](Netlist/netlist1.jpg)<br>
    [Netlist 2](Netlist/netlist2.jpg)<br>
    [Netlist 3](Netlist/netlist3.jpg)<br>
-4) Output<br>
+5) Output<br>
    [Console Output](output/console.jpg)<br>
    [State Diagram](state%20diagram.png)<br>
-5) Waveforms<br>
+6) Waveforms<br>
    [Waveform 1](waveforms/image1.jpg)<br>
    [Waveform 2](waveforms/image2.jpg)<br>
 
