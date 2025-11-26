@@ -1,5 +1,5 @@
 This repository contains all design, simulation, synthesis, and physical design files for the Round Robin Arbiter. The project includes RTL code, testbench, waveforms, synthesis results, and physical design layouts.
-It has been designed for variable time slicing.
+It has been designed for variable time slicing.<br>
 TABLE OF CONTENTS:
 1) Floorplanning Layout<br>
     [Layout 1](Floorplanning%20layout/layout1.jpg)<br>
